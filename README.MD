@@ -15,7 +15,6 @@
 
 
 
-```bash
-Для запуска тестов должны быть установлены пакеты pytest и requests
-```
+### *Для запуска тестов должны быть установлены пакеты pytest и requests*
+
 ![](https://motovibe.ru/image/cache/catalog/Blog/How%20to%20choose%20an%20electric%20scooter/3-900x600.jpg)
